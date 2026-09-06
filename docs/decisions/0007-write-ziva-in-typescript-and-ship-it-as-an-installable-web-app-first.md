@@ -1,6 +1,6 @@
 # 0007 — Write ZIVA in TypeScript and ship it as an installable web app first
 
-Status:    accepted
+Status:    superseded by 0009
 Date:      2026-09-05
 Context:
            The four inputs that decide a language here:

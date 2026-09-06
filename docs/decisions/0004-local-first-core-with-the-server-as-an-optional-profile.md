@@ -1,6 +1,6 @@
 # 0004 — Local-first core, with a server as an optional profile
 
-Status:    accepted
+Status:    superseded by 0008
 Date:      2026-09-05
 Context:
            The maintainer operates nothing (0001), so the question is not
