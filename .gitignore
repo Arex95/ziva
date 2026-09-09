@@ -1,0 +1,29 @@
+# Never commit real data or credentials to a health project.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+
+# Health data, in any form, including anything believed to be anonymised.
+# Test fixtures must be synthetic and live under a path named accordingly.
+*.fhir.json
+data/
+exports/
+!fixtures/synthetic/
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build output and dependencies — refined once the stack is chosen.
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.log
