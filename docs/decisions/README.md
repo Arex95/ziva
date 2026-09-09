@@ -15,6 +15,9 @@ supersedes it and the old one is marked. The history is the point.
 | [0007](./0007-write-ziva-in-typescript-and-ship-it-as-an-installable-web-app-first.md) | ~~Write ZIVA in TypeScript and ship it as an installable web app first~~ — superseded by 0009 |
 | [0008](./0008-require-a-self-hosted-server-as-the-household-record.md) | Require a self-hosted server as the household's record |
 | [0009](./0009-write-the-server-in-go-and-the-client-in-flutter.md) | Write the server in Go and the client in Flutter |
+| [0010](./0010-decline-advice-by-redirecting-to-the-record-not-by-refusing.md) | Decline advice by redirecting to the record, not by refusing |
+| [0011](./0011-visibility-is-granted-per-subject-by-the-subject.md) | Visibility is granted per subject, by the subject |
+| [0012](./0012-adapters-run-out-of-process-behind-a-documented-ingest-api.md) | Adapters run out of process, behind a documented ingest API |
 
 The research these rest on is not in this repository. It lives with the
 maintainer's own analysis notes, and each decision restates the evidence it
